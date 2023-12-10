@@ -1,0 +1,12 @@
+.contain{
+    padding: 1%;
+}
+#self{
+    height: 70vh;
+}
+.img{
+    text-align: right;
+}
+html{
+    overflow-x: hidden;
+}

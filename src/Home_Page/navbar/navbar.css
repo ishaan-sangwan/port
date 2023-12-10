@@ -1,0 +1,24 @@
+.name{
+    padding:1%;
+    text-align:center;
+    /* margin-left: 1px; */
+}
+
+.options{
+    padding:1%;
+    text-align: center;
+    font-size: 2vh;
+}
+
+.options:hover{
+    background-color: #ddd;
+    color:#333
+}
+nav{
+    background-color: #333;
+    color: #ddd;
+}
+h4 a{
+    text-decoration: none;
+    color:#ddd
+}
